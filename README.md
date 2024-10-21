@@ -29,5 +29,3 @@ Tenho 25 anos, sou estudante de análise e desenvolvimento de sistemas, atualmen
 <img loading="lazy" height="180em" src="https://github-readme-stats.vercel.app/api?username=matheusgabsimoes&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
 </div>
 <br> </br> 
-
-![Snake animation](https://github.com/matheusgabsimoes/matheusgabsimoes/blob/output/github-contribution-grid-snake.svg)
