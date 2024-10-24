@@ -1,5 +1,5 @@
 # Salve devs, me chamo Matheus ! 
-Tenho 25 anos, sou estudante de análise e desenvolvimento de sistemas, atualmente trabalhando em loja de matériais para contrução e sigo no corre de migração de carreira para área de tecnologia na função de front-end.
+Tenho 25 anos, sou estudante de análise e desenvolvimento de sistemas, no corre de migração de carreira para área de tecnologia na função de front-end.
 <br> </br> 
 
 ## Ferramentas e Tecnologias
