@@ -1,5 +1,5 @@
 # Salve devs, me chamo Matheus ! 
-Tenho 25 anos, sou estudante de análise e desenvolvimento de sistemas, em migração de carreira para área de tecnologia em desenvolvimento Java.
+Estudante de análise e desenvolvimento de sistemas, em migração de carreira para área de tecnologia em desenvolvimento Java.
 <br> </br> 
 
 ## Ferramentas e Tecnologias
