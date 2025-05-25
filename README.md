@@ -1,5 +1,5 @@
 # Salve devs, me chamo Matheus ! 
-Estudante de análise e desenvolvimento de sistemas, em migração de carreira para área de tecnologia em desenvolvimento Java.
+Estudante de análise e desenvolvimento de sistemas, trabalhando na área de Sustentação e Suporte em EDI e DevOps. Praticando skills de desenvolvimento de software com projetos em Java! 
 <br> </br> 
 
 ## Ferramentas e Tecnologias
