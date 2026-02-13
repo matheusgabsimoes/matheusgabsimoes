@@ -19,18 +19,6 @@ I work with system stability, troubleshooting, integrations, monitoring and auto
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" width="40" height="40" alt="HTML5"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" width="40" height="40" alt="CSS3"/>
 </div>
----
- Featured Projects
-- [ItemizeWeb](https://github.com/matheusgabsimoes/ItemizeWeb) — CRUD web app with Java + Spring Boot
-- [writingsdev-site](https://github.com/matheusgabsimoes/writingsdev-site) — Static website with HTML5 + CSS3
----
- GitHub Stats
-<div>
-  <a href="https://github.com/matheusgabsimoes">
-    <img loading="lazy" height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=matheusgabsimoes&layout=compact&langs_count=7&theme=dracula"/>
-  </a>
-</div>
----
+
  Connect with me
 - [LinkedIn](https://linkedin.com/in/matheusgabsimoes)
-- [Email](mailto:mtsgabriel.simoes@gmail.com)
