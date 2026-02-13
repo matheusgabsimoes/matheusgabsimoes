@@ -1,21 +1,36 @@
-# Salve devs, me chamo Matheus ! 
-Estudante de análise e desenvolvimento de sistemas, trabalhando na área de Sustentação e Suporte em EDI e DevOps. Praticando skills de desenvolvimento de software com projetos em Java! 
-<br> </br> 
-
-## Ferramentas e Tecnologias
-
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/java/java-original.svg" width="40" height="40" /><img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/html5/html5-original.svg" width="40" height="40"/>
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/css3/css3-original.svg" width="40" height="40"/>
-<img loading="lazy" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" width="40" height="40"/>
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/github/github-original.svg" width="40" height="40"/>
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/linux/linux-original.svg" width="40" height="40"/>
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/docker/docker-original-wordmark.svg" width="40" height="40"/>
-<br> </br> 
-
-
-<div>
-<a href="https://github.com/seu-usuário-aqui">
-<img loading="lazy" height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=matheusgabsimoes&layout=compact&langs_count=7&theme=dracula"/>
-<!-- <img loading="lazy" height="180em" src="https://github-readme-stats.vercel.app/api?username=matheusgabsimoes&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/> -->
+ Hi, I'm Matheus Gabriel Simões 👋
+Backend-focused Software Engineer in training, currently working with **Production Support, Infrastructure and DevOps**.  
+I work with system stability, troubleshooting, integrations, monitoring and automation, while building backend projects with Java.
+- 🎓 B.Sc. in progress: **Análise e Desenvolvimento de Sistemas**
+- 💼 Current focus: **Backend Development + Production Support**
+- ☁️ Experience with: **AWS, Linux, SQL, monitoring and automation**
+- 🚀 Looking for opportunities in **Backend Engineering**
+---
+ Tech Stack
+<div style="display: inline_block">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" width="40" height="40" alt="Java"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/spring/spring-original.svg" width="40" height="40" alt="Spring"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="40" height="40" alt="Python"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" width="40" height="40" alt="PostgreSQL"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" width="40" height="40" alt="Docker"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" width="40" height="40" alt="Linux"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" width="40" height="40" alt="Git"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" width="40" height="40" alt="GitHub"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" width="40" height="40" alt="HTML5"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" width="40" height="40" alt="CSS3"/>
 </div>
-<br> </br> 
+---
+ Featured Projects
+- [ItemizeWeb](https://github.com/matheusgabsimoes/ItemizeWeb) — CRUD web app with Java + Spring Boot
+- [writingsdev-site](https://github.com/matheusgabsimoes/writingsdev-site) — Static website with HTML5 + CSS3
+---
+ GitHub Stats
+<div>
+  <a href="https://github.com/matheusgabsimoes">
+    <img loading="lazy" height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=matheusgabsimoes&layout=compact&langs_count=7&theme=dracula"/>
+  </a>
+</div>
+---
+ Connect with me
+- [LinkedIn](https://linkedin.com/in/matheusgabsimoes)
+- [Email](mailto:mtsgabriel.simoes@gmail.com)
